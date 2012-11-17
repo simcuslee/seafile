@@ -49,6 +49,7 @@ Upgrade
 Every time a new version is released, you just need to edit Includes.wxi:
 1) Generate a new <ProductGuid>
 2) Update <CurrentSeafileVersion>
+3) update seafile version in web/main.py
 
 And go through the compiling process above.
 
